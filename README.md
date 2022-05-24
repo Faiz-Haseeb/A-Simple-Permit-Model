@@ -1,3 +1,2 @@
 # A-Simple-Permit-Model
-Final Project for Computational Social Sciences, offered at Habib University
-Done in a group consisting of Abeer Khan and myself.
+This NetLogo model is designed to simulate the migration patterns of Muslims/Muhajirs that occurred from 1948 to 1952. How does variation in factors such as violence in India, and chances of acquiring permits affect the relocation patterns and citizenship status of Muslims of India and Pakistan?
